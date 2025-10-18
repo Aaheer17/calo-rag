@@ -1,0 +1,5 @@
+{"question": "Summarize longitudinal vs lateral shower profiles in sampling EM calorimeters.", "must_include_any": ["longitudinal", "lateral", "profile", "containment"]}
+{"question": "What are common sources of leakage and how are they mitigated?", "must_include_any": ["leakage", "containment", "upstream", "downstream", "sampling"]}
+{"question": "Which recent approaches are used for fast calorimeter shower generation?", "must_include_any": ["diffusion", "flow", "gan", "score", "vit"]}
+{"question": "How is classifier-based AUC used to judge realism of generated showers?", "must_include_any": ["AUC", "classifier", "distinguish", "realism"]}
+{"question": "State any reported speedups or efficiency gains for fast simulation.", "must_include_any": ["speedup", "faster", "latency", "throughput", "generation time"]}
